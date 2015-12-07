@@ -7,15 +7,15 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "ejs": "2.3.3",
+    "ejs": "2.3.4",
     "express": "4.13.3"
   },
   "engines": {
-    "node": "0.12.7"
+    "node": "4.2.3"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/EqualExperts/node-js-getting-started"
   },
   "keywords": [
     "node",
